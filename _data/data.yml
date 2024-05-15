@@ -179,6 +179,26 @@ skills:
       level-name: Advanced Beginner
       time: 2+ years
 
+    - name: Non-SQL Databases
+      level: 70%
+      level-name: Advanced Beginner
+      time: 1+ year
+
+    - name: Rspect
+      level: 50%
+      level-name: Novice.
+      time: 6 months
+    
+    - name: MiniTest
+      level: 50%
+      level-name: Novice.
+      time: 6 months
+
+    - name: Jest
+      level: 50%
+      level-name: Novice.
+      time: 6 months
+
 # NO MODIFICAR
 footer: >
   BrightCoders for a brighter future!
