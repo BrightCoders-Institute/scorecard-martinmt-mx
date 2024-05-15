@@ -8,27 +8,27 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: John Doe # Escribe tu nombre y apellido (1 nombre y 1 apellido)
+  name: Martin Mojica # Escribe tu nombre y apellido (1 nombre y 1 apellido)
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: john@gmail.com
-  phone: 123 123 1234
+  email: martin_4-3@hotmail.com
+  phone: 312 273 9451
   website: # No agregar http://
-  linkedin: john # solo tu nombre de usuario de linkedin o dejar en blanco
-  github: john # solo tu nombre de usuario en github o dejar en blanco
-  gitlab: john # solo tu nombre de usuario en gitlab o dejar en blanco
-  bitbucket: john # solo tu nombre de usuario en bitbucket o dejar en blanco
-  twitter: '@john' # solo tu nombre de usuario en twitter o dejar en blanco
+  linkedin: martin-mt # solo tu nombre de usuario de linkedin o dejar en blanco
+  github: martinmt-mx # solo tu nombre de usuario en github o dejar en blanco
+  gitlab:  # solo tu nombre de usuario en gitlab o dejar en blanco
+  bitbucket:  # solo tu nombre de usuario en bitbucket o dejar en blanco
+  twitter:  # solo tu nombre de usuario en twitter o dejar en blanco
   stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
+  codewars: martinmt-mx
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: B1 Intermediate # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: B2 Intermediate # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -54,46 +54,60 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    As a Computer Systems Engineering student with a deep passion for technology and programming, I have a keen interest in web, backend and frontend programming. As an autodidact programmer, I have a love for learning and consistently seek to improve my skills by staying up to date with industry best practices and logical thinking. I am proactive, diligent, and thrive in collaborative environments, where I can share my knowledge and learn from others. My passion for technology stems from my belief that it has the potential to make us better individuals, coworkers, and productive members of society. As a future Senior Developer, I am looking for an innovative company here in Mexico, where I can leverage my creativity and problem-solving skills to make an impact in people's lives.
+    Active Student of Software Engineering of Telematics School at Universidad de Colima. Passionate about software development and learning new technologies. More than 4 years of experience with programming languages.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Bachelor Degree
     university: Universidad de Colima
-    time: 2018 - 2022
+    time: 2019 - 2024
     details: |
       Facultad de Telemática - Software Engineer.
 
-  - degree: Python Certification
-    university: Udemy
-    time: 2022
+  - degree: Azure AZ-900 Certification
+    university: Microsoft
+    time: 2020
+    details: |
+      200 hrs course certification.
+  
+  - degree: JavaScript, jQuery, and JSON Course
+    university: Coursera
+    time: 2020
+    details: |
+      200 hrs course certification.
+  
+  - degree: BrightCoders Bootcamp Ruby on Rails
+    university: BrightCoders
+    time: 2021
     details: |
       300 hrs course certification.
+  
+  - degree: BrightCoders Bootcamp React Native
+    university: BrightCoders
+    time: 2023
+    details: |
+      400 hrs course certification.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
+
+  - role: Ruby on Rails Developer
+    time: May 2020 - Nov 2020
+    company: Bright Coders, Mexico
+    details: |
+      Develop native applications with technologies such as Ruby on Rails, 
+      while implementing good practices, test-based development, tools for managing local 
+      and remote repositories. In addition to developing fundamental skills in software development 
+      such as teamwork and effective communication using an agile methodology.
+
   - role: React Native Developer
-    time: Feb 2022 - Present
+    time: Nov 2022 - Present
     company: Bright Coders, Mexico
     details: |
       Develop native applications with technologies such as Javascript and React Native, 
       while implementing good practices, test-based development, tools for managing local 
       and remote repositories. In addition to developing fundamental skills in software development 
       such as teamwork and effective communication using an agile methodology.
-
-  - role: Project Name
-    time: Sep 2021 - Jan 2022
-    company: BrightCoders
-    details: |
-      My role was to design the views with Figma and use React Native for the development of o mobile app designed for... I worked remotely with other 3 team members.
-
-  - role: Full Stack Developer
-    time: Feb 2021 - Aug 2021
-    company: Company Name
-    details: |
-      My role was to create the layout for the website in a responsive way, 
-      create the database logic with SQL, develop the frontend part with jQuery
-      and the backend with PHP and its Codeigniter framework.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -105,20 +119,25 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
+    - name: Ruby on Rails
+      level: 70%
+      level-name: Proficient
+      time: 1+ year
+    
     - name: Javascript
-      level: 20%
-      level-name: Novice
-      time: 6 months
+      level: 70%
+      level-name: Proficient
+      time: 2+ years
 
     - name: React
-      level: 40%
-      level-name: Advanced beginner
-      time: 1 year
+      level: 70%
+      level-name: Proficient
+      time: 1+ year
 
     - name: React Native
       level: 80%
       level-name: Proficient
-      time: 2+ years
+      time: 1+ years
 
 # NO MODIFICAR
 footer: >
