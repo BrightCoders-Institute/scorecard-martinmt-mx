@@ -121,23 +121,63 @@ skills:
   toolset:
     - name: Ruby on Rails
       level: 70%
-      level-name: Proficient
+      level-name: Advanced Beginner
       time: 1+ year
     
     - name: Javascript
       level: 70%
-      level-name: Proficient
-      time: 2+ years
+      level-name: Competent
+      time: 3+ years
 
     - name: React
       level: 70%
-      level-name: Proficient
+      level-name: Advanced Beginner
       time: 1+ year
 
     - name: React Native
       level: 80%
-      level-name: Proficient
+      level-name: Advanced Beginner
       time: 1+ years
+
+    - name: Typescript
+      level: 50%
+      level-name: Novice
+      time: 6 months
+
+    - name: HTML5
+      level: 70%
+      level-name: Competent
+      time: 3+ years
+    
+    - name: CSS3
+      level: 70%
+      level-name: Competent
+      time: 3+ years
+
+    - name: SASS
+      level: 60%
+      level-name: Advanced Beginner
+      time: 1+ year
+
+    - name: LESS
+      level: 60%
+      level-name: Advanced Beginner
+      time: 1+ year
+
+    - name: Git
+      level: 80%
+      level-name: Proficient
+      time: 3+ years
+    
+    - name: Microsoft Azure
+      level: 60%
+      level-name: Advanced Beginner
+      time: 1+ year
+    
+    - name: Scrum
+      level: 60%
+      level-name: Advanced Beginner
+      time: 2+ years
 
 # NO MODIFICAR
 footer: >
