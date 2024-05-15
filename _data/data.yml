@@ -80,11 +80,11 @@ educationcomplete:
     university: BrightCoders
     time: 2021
     details: |
-      300 hrs course certification.
+      400 hrs course certification.
   
   - degree: BrightCoders Bootcamp React Native
     university: BrightCoders
-    time: 2023
+    time: 2024
     details: |
       400 hrs course certification.
 
@@ -101,7 +101,7 @@ experiences:
       such as teamwork and effective communication using an agile methodology.
 
   - role: React Native Developer
-    time: Nov 2022 - Present
+    time: Nov 2023 - Present
     company: Bright Coders, Mexico
     details: |
       Develop native applications with technologies such as Javascript and React Native, 
@@ -186,17 +186,17 @@ skills:
 
     - name: Rspect
       level: 50%
-      level-name: Novice.
+      level-name: Novice
       time: 6 months
     
     - name: MiniTest
       level: 50%
-      level-name: Novice.
+      level-name: Novice
       time: 6 months
 
     - name: Jest
       level: 50%
-      level-name: Novice.
+      level-name: Novice
       time: 6 months
 
 # NO MODIFICAR
